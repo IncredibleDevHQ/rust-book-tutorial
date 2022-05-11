@@ -10,6 +10,6 @@ edition = "2021"
 rand = "0.8.5"
 
 [[bin]]
-name = "episode-8-looping"
-path = "8-looping/main.rs"
+name = "episode-9-handle-error"
+path = "9-handle-error-input/main.rs"
 
