@@ -10,6 +10,6 @@ edition = "2021"
 rand = "0.8.5"
 
 [[bin]]
-name = "episode-6-compare-error"
-path = "6-compare-variables/main.rs"
+name = "episode-7-trim-parse"
+path = "7-trim-parse/main.rs"
 
