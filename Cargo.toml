@@ -8,3 +8,8 @@ edition = "2021"
 
 [dependencies]
 rand = "0.8.5"
+
+[[bin]]
+name = "episode-6-compare-error"
+path = "6-compare-variables/main.rs"
+
