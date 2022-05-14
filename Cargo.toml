@@ -10,7 +10,6 @@ edition = "2021"
 rand = "0.8.5"
 
 [[bin]]
-name = "episode-10-mutability"
-path = "10-mutability/main.rs"
-
+name = "episode-11-shadow"
+path = "11-shadow/main.rs"
 
