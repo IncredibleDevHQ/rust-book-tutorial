@@ -10,6 +10,6 @@ edition = "2021"
 rand = "0.8.5"
 
 [[bin]]
-name = "episode-11-shadow"
-path = "11-shadow/main.rs"
+name = "episode-15-tuples"
+path = "15-tuples/main.rs"
 
