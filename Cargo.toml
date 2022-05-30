@@ -8,6 +8,6 @@ edition = "2021"
 
 
 [[bin]]
-name = "episode-19-if"
-path = "19-if/main.rs"
+name = "episode-20-if"
+path = "20-if/main.rs"
 
