@@ -6,10 +6,8 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[dependencies]
-rand = "0.8.5"
 
 [[bin]]
-name = "episode-15-tuples"
-path = "15-tuples/main.rs"
+name = "episode-19-if"
+path = "19-if/main.rs"
 
