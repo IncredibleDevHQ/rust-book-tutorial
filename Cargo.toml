@@ -2,12 +2,14 @@
 name = "my-project"
 version = "0.1.0"
 authors = ["runner"]
-edition = "2021"
+edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 
 [[bin]]
+
 name = "episode-21-if-else"
 path = "21-multiple-if-else/main.rs"
+
 
