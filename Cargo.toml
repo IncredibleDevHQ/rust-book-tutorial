@@ -2,7 +2,7 @@
 name = "my-project"
 version = "0.1.0"
 authors = ["runner"]
-edition = "2021"
+edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -10,6 +10,6 @@ edition = "2021"
 rand = "0.8.5"
 
 [[bin]]
-name = "episode-15-tuples"
-path = "15-tuples/main.rs"
+name = "19-function-return"
+path = "19-function-return/main.rs"
 
