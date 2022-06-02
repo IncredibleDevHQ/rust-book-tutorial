@@ -6,10 +6,10 @@ edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[dependencies]
-rand = "0.8.5"
 
 [[bin]]
-name = "19-function-return"
-path = "19-function-return/main.rs"
+
+name = "episode-21-if-else"
+path = "21-multiple-if-else/main.rs"
+
 
